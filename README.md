@@ -1,2 +1,2 @@
 # THM
-A diary of my THM CTFs
+A diary of my TryHackMe.com (THM) CTFs.
